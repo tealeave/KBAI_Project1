@@ -33,9 +33,5 @@ class Agent:
     def Solve(self,problem):
         # get all the attribute and method for problem
         # print(problem.__dict__)
-        # print(problem.figures['A'].__dict__)
-        # print(problem.figures['A'].objects['a'].__dict__) # the objects under figure is the verbal description of an object in a figure
-        # print(problem.figures['A'].visualFilename) # this is file that required to solve the problem visually
-        Image.
 
         return -1
