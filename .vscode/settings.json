@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/tealeave/miniconda3/envs/KBAI/bin/python",
+    "python.pythonPath": "C:\\Users\\dlin\\Anaconda3\\envs\\KBAI\\python.exe",
     "python.testing.pytestArgs": [
         "pytest"
     ],
